@@ -81,7 +81,7 @@ GEM
       colorize (~> 0.7)
       xcodeproj (~> 1.0)
     thread_safe (0.3.6)
-    tzinfo (1.2.5)
+    tzinfo (1.2.11)
       thread_safe (~> 0.1)
     xcinvoke (0.3.0)
       liferaft (~> 0.0.6)
